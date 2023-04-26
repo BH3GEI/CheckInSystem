@@ -1,0 +1,16 @@
+[
+  {
+    "name": "张三",
+    "id": "2021001",
+    "face_encoding": [0.1, 0.2, -0.1],
+    "fingerprint_encoding": [0.3, 0.4, -0.2],
+    "attendance": false
+  },
+  {
+    "name": "李四",
+    "id": "2021002",
+    "face_encoding": [-0.1, 0.1, 0.2],
+    "fingerprint_encoding": [-0.2, 0.3, 0.4],
+    "attendance": false
+  }
+]
